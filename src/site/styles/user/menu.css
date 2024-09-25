@@ -123,9 +123,6 @@ font-display: auto;
 src: url('fonts/heliotrope_3_caps_bold.woff2') format('woff2');
 }
 
-
-
-
 body, p, a {
     font-family: 'heliotrope_3', sans-serif !important;
 }
