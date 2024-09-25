@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2024-03-ES242","permalink":"/2024-03-es-242/"}
+{"dg-publish":true,"dg-path":"2024-03-ES242/main.md","permalink":"/2024-03-es-242/main/"}
 ---
 
 ## Data Structures and Algorithms - I
