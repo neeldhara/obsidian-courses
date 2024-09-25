@@ -2,84 +2,171 @@
 {"dg-publish":true,"permalink":"/menu/"}
 ---
 
-<header>
-   <div class="cd-dropdown-wrapper">
-      <a class="cd-dropdown-trigger" href="#0">Dropdown</a>
-      <nav class="cd-dropdown">
-         <h2>Title</h2>
-         <a href="#0" class="cd-close">Close</a>
-         <ul class="cd-dropdown-content">
+
+
+
+<div class="nav">
+    <nav>
+        <a href="javascript:void(0);" class="mobile-menu-trigger">Open mobile menu</a>
+        <ul class="menu menu-bar">
             <li>
-               <form class="cd-search">
-                  <input type="search" placeholder="Search...">
-               </form>
+                <a href="javascript:void(0);" class="menu-link menu-bar-link" aria-haspopup="true">1. Multilevel mega
+                    menu</a>
+                <ul class="mega-menu mega-menu--multiLevel">
+                    <li>
+                        <a href="javascript:void(0);" class="menu-link mega-menu-link" aria-haspopup="true">1.1 Flyout
+                            link</a>
+                        <ul class="menu menu-list">
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">1.1.1 Page link</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0);" class="menu-link menu-list-link"
+                                    aria-haspopup="true">1.1.2 Flyout link</a>
+                                <ul class="menu menu-list">
+                                    <li>
+                                        <a href="/page" class="menu-link menu-list-link">1.1.2.1 Page link</a>
+                                    </li>
+                                    <li>
+                                        <a href="/page" class="menu-link menu-list-link">1.1.2.2 Page link</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">1.1.3 Page link</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:void(0);" class="menu-link mega-menu-link" aria-haspopup="true">1.2 Flyout
+                            link</a>
+                        <ul class="menu menu-list">
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">1.2.1 Page link</a>
+                            </li>
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">1.2.2 Page link</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="javascript:void(0);" class="menu-link mega-menu-link" aria-haspopup="true">1.3 Flyout
+                            link</a>
+                        <ul class="menu menu-list">
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">1.3.1 Page link</a>
+                            </li>
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">1.3.2 Page link</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/page" class="menu-link mega-menu-link">1.4 Page link</a>
+                    </li>
+                    <li class="mobile-menu-back-item">
+                        <a href="javascript:void(0);" class="menu-link mobile-menu-back-link">Back</a>
+                    </li>
+                </ul>
             </li>
-            <li class="has-children">
-               <a href="#0">Clothing</a>
-               <ul class="cd-secondary-dropdown is-hidden">
-                  <li class="go-back"><a href="#0">Menu</a></li>
-                  <li class="see-all"><a href="#0">All Clothing</a></li>
-                  <li class="has-children">
-                     <a href="#0">Accessories</a>
 
-                     <ul class="is-hidden">
-                        <li class="go-back"><a href="#0">Clothing</a></li>
-                        <li class="see-all"><a href="#0">All Accessories</a></li>
-                        <li class="has-children">
-                           <a href="#0">Beanies</a>
-                           <ul class="is-hidden">
-                              <li class="go-back"><a href="#0">Accessories</a></li>
-                              <li class="see-all"><a href="#0">All Benies</a></li>
-                              <li><a href="#0">Caps &amp; Hats</a></li>
-                              <!-- other list items here -->
-                           </ul>
-                        </li>
-                        <li class="has-children">
-                           <a href="#0">Caps &amp; Hats</a>
-                           <ul class="is-hidden">
-                              <li class="go-back"><a href="#0">Accessories</a></li>
-                              <li class="see-all"><a href="#0">All Caps &amp; Hats</a></li>
-                              <li><a href="#0">Beanies</a></li>
-                              <!-- other list items here -->
-                           </ul>
-                        </li>
-                        <li><a href="#0">Glasses</a></li>
-                        <!-- other list items here -->
-                     </ul>
-                  </li>
+            <li>
+                <a href="javascript:void(0);" class="menu-link menu-bar-link" aria-haspopup="true">2. Flat mega menu (3
+                    cols)</a>
+                <ul class="mega-menu mega-menu--flat">
+                    <li>
+                        <a href="/page" class="menu-link mega-menu-link mega-menu-header">2.1 Page link header</a>
+                        <ul class="menu menu-list">
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">2.1.1 Page link</a>
+                            </li>
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">2.1.2 Page link</a>
+                            </li>
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">2.1.3 Page link</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/page" class="menu-link mega-menu-link mega-menu-header">2.2 Page link header</a>
+                        <ul class="menu menu-list">
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">2.2.1 Page link</a>
+                            </li>
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">2.2.2 Page link</a>
+                            </li>
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">2.2.3 Page link</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/page" class="menu-link mega-menu-link mega-menu-header">2.3 Page link header</a>
+                        <ul class="menu menu-list">
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">2.2.1 Page link</a>
+                            </li>
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">2.2.2 Page link</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="mobile-menu-back-item">
+                        <a href="javascript:void(0);" class="menu-link mobile-menu-back-link">Back</a>
+                    </li>
+                </ul>
+            </li>
 
-                  <li class="has-children">
-                     <!-- other list items here -->
-                  </li>
+            <li>
+                <a href="javascript:void(0);" class="menu-link menu-bar-link" aria-haspopup="true">3. Flat mega menu (2
+                    cols)</a>
+                <ul class="mega-menu mega-menu--flat">
+                    <li>
+                        <a href="#" class="menu-link mega-menu-link mega-menu-header">3.1 Page link header</a>
+                        <ul class="menu menu-list">
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">
+                                    3.1.1 Page link<br />
+                                    <small>Short decription of link</small>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">
+                                    3.1.2 Page link<br />
+                                    <small>Short decription of link</small>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/page" class="menu-link menu-list-link">
+                                    3.1.2 Page link<br />
+                                    <small>Short decription of link</small>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="mega-menu-content">
+                        <p class="mega-menu-header">3.2 Page link header</p>
+                        <p>This is just static content. You can add anything here. Images, text, buttons, your grandma's
+                            secrect
+                            recipe.</p>
+                    </li>
+                    <li class="mobile-menu-back-item">
+                        <a href="javascript:void(0);" class="menu-link mobile-menu-back-link">Back</a>
+                    </li>
+                </ul>
+            </li>
+            
+            <li>
+                <a href="/page" class="menu-link menu-bar-link">Static link</a>
+            </li>
 
-                  <li class="has-children">
-                     <!-- other list items here -->
-                  </li>
-
-                  <li class="has-children">
-                     <!-- other list items here -->
-                  </li>
-               </ul> <!-- .cd-secondary-dropdown -->
-            </li> <!-- .has-children -->
-
-            <li class="has-children">
-               <!-- other list items here -->
-            </li> <!-- .has-children -->
-
-            <li class="has-children">
-               <!-- other list items here -->
-            </li> <!-- .has-children -->
-
-            <li class="cd-divider">Divider</li>
-
-            <li><a href="#0">Page 1</a></li>
-            <!-- other list items here -->
-
-         </ul> <!-- .cd-dropdown-content -->
-      </nav> <!-- .cd-dropdown -->
-   </div> <!-- .cd-dropdown-wrapper -->
-</header>
-
-<main class="cd-main-content">
-   <!-- your content here -->
-</main>
+            <li class="mobile-menu-header">
+                <a href="/home" class="">
+                    <span>Home</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>
