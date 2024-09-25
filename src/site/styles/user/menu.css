@@ -5,3 +5,15 @@
 .markdown-embed{
   display: contents !important;
 }
+
+@import url("https://people.iitgn.ac.in/~neeldhara/superso/slides.css");
+
+body, p, a {
+    font-family: 'heliotrope_3', sans-serif !important;
+}
+
+.callout-title-inner{
+  font-family: 'almondregular' !important;
+  text-transform: capitalize !important;
+  font-size: 1.5em;
+}
