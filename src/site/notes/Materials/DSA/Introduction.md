@@ -19,23 +19,20 @@ However, you want your notes optimised for giving you quality company during a 2
 On the other hand, if you are taking notes so that a special someone who will inevitably miss a few classes will almost certainly ask for later, then you would be making notes to impress, and that potentially requires a different approach. 
   
 >[!tip]+ Throughout this course, we will try to make sense of trade-offs.
-> 
-  We'll equip ourselves with ideas that will ultimately help you decide questions like: how do you organise the clothes in your cupboard?
-> 
-> |                  | Throw 'em in, nobody's looking | Keep it where you can find it later |
-> | ---------------- | ------------------------------ | ----------------------------------- |
-> | Time to process  | Negligible                     | Forever                             |
-> | Time to retrieve | Forever                        | Negligible                          |
-> 
+>
+>We'll equip ourselves with ideas that will ultimately help you decide questions like: how do you organise the clothes in your cupboard?
+>
+>|                  | Throw 'em in, nobody's looking | Keep it where you can find it later |
+>| ---------------- | ------------------------------ | ----------------------------------- |
+>| Time to process  | Negligible                     | Forever                             |
+>| Time to retrieve | Forever                        | Negligible                          |
 > Table 1. No free lunches.
   
-
 > [!note]- This *is* in fact a useful framing!
 > 
 > ![Table 1 Revisited. No Free Lunches](/img/user/Materials/figures/ch1-table01.png)
 > 
 >
-
 
 ### Representing Polynomials
 
