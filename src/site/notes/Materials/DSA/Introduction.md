@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/materials/dsa/introduction/"}
 ---
 
-[Link to Slides](https://slides.com/neeldhara/dsa1-w01)
-
-  
-
+[Link to Companion Slides](https://slides.com/neeldhara/dsaslides-introduction)
 ## WDYM, data structures?  
 
 We will keep it casual and skip formal definitions for now. 👀 
