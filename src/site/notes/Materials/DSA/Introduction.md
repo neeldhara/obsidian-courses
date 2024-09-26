@@ -109,14 +109,13 @@ Note that this game can go on for at most a 100 steps, and in fact exactly 20 st
 
 ### Representing a Game - II
 
-
 If ~~you missed the first class~~ you haven't played the [Game of Trust](https://ncase.me/trust/), you are welcome to take a break and experience it now. Let's recollect the setup:
 
-![Illustration from an implementation by [Nicky Case](https://ncase.me/trust/).](../figures/ch1-game-trust.png "Alt text: The Game of Trust. You have one choice. In front of you is a machine: if you put a coin in the machine, the other player gets three coins and vice versa. You both can either choose to COOPERATE (put in coin), or CHEAT (don't put in coin). The image shows a cartoon machine with players on either side.")
+![Illustration from an implementation by Nicky Case](/img/user/Materials/figures/ch1-game-trust.png)
 
 Suppose you want to implement your own version of this game, where the program responds to inputs from the user and plays according to a specific, pre-meditated strategy. Remember you have seen some strategies already:
 
-![A second illustration from the same implementation by [Nicky Case](https://ncase.me/trust/).](../figures/ch1-players-trust.png "Five player strategies also outlined below.")
+![A second illustration from the same implementation by Nicky Case](/img/user/Materials/figures/ch1-players-trust.png)
 
 We reproduce these strategies below:
 
