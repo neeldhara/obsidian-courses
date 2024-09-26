@@ -17,7 +17,7 @@ body, p, a, .callout-title-inner, li {
 
 
 .callout[data-callout="calendar"] {
-  --callout-color: 99, 71, 214;
+  --callout-color: #fce3f7;
   --callout-icon: lucide-calendar;
 }
 
