@@ -47,4 +47,38 @@
 </div></div>
 
 
+> [!calendar]- Timings and Venue
+> 
+> Classes: Tuesdays and Thursdays · 5PM · 10/103
+> Labs: Wednesdays · 11.30AM · Jasubhai Auditorium
+> Office Hours: by appointment
 
+> [!info]- Registration & Evaluation Logistics
+> 
+>  ![Static Badge](https://img.shields.io/badge/-classroom-blue?logo=google&logoColor=white)
+> The course is hosted on Google classroom (code `amsscja`).
+> 
+> Please join the classroom to be informed of announcements and to participate in weekly quizzes. These are typically short 15-minute quizzes held in-class, but are open (so you can look things up or discuss the problems). However, giving the quiz from outside the classroom **will be considered a violation of the honor code**.
+> 
+> Lab exams will be held in the labs and will be evaluated by TAs.
+> The midsem and endsem exams will be held as per the institute schedule, and will be pen and paper exams with mostly objective-type questions and a small number of subjective questions. You are allowed to bring a cheat sheet or notebooks or books (within reason), but electronic devices are prohibited.
+
+> [!info]- Grading Policy
+> 
+>
+> - Lab Exams: 10 + 15
+> - Midsem and Endsem: 10 + 20
+> - In-class worksheets: 20 X 3 (capped at 40)
+> - Viva: 5 (every candidate will have one interview on a Saturday afternoon)
+
+---
+
+#### Course Plan
+
+| Date | Lecture Topic | Slides | Video | Other References |
+| ---- | ------------- | ------ | ----- | ---------------- |
+|      |               |        |       |                  |
+|      |               |        |       |                  |
+|      |               |        |       |                  |
+
+#### Weekly Quizzes
