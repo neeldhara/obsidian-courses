@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/courses/iitgn/iitgn/"}
+{"dg-publish":true,"dg-path":"iitgn","permalink":"/iitgn/"}
 ---
 
 ### Courses offered at IIT Gandhinagar
