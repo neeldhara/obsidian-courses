@@ -12,5 +12,5 @@ body, p, a, .callout-title-inner, li {
 
 .callout[data-callout="reference"] {
   --callout-color: 99, 71, 214;
-  --callout-icon: lucide-book-copy;
+  --callout-icon: lucide-book;
 }
