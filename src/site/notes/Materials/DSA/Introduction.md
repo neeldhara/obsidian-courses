@@ -75,7 +75,6 @@ You might appreciate that this saves us quite some circus and we can quite direc
 > - What about multivariate polynomials? 
 > - Is there a way that you might be able to capture an algebraic expression for a polynomial without either using strings or just the coefficients?
 
-
 ### Representing a Game - I
 
 The [game of 100](https://www.youtube.com/watch?v=846A4rgO_os) goes like this: I pick a number between 1 and 10, and then you pick one within the next ten numbers, and on and on. The first person to reach 100 wins.
@@ -101,11 +100,9 @@ What if you want to write a program that mimics the winning strategy?
 
 Note that this game can go on for at most a 100 steps, and in fact exactly 20 steps (or ten rounds) when you employ said winning strategy. So one way to go about this is to declare 20 variables to track the 20 numbers exchanged between the players. But a moment's reflection may reveal that you *don't* need to store anything at all.
 
-
 > [!caution] Exercise
 > 
 > Can you write a program that makes the first move, prompts the user for their moves on their turn, uses the winning strategy discussed above, and uses no variables for explicit storage?
-
 
 ### Representing a Game - II
 
