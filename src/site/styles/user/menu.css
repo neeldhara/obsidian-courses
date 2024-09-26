@@ -11,13 +11,13 @@ body, p, a, .callout-title-inner, li {
 }
 
 .callout[data-callout="reference"] {
-  --callout-color: 252, 227, 247;
+  --callout-color: 99, 71, 214;
   --callout-icon: lucide-book;
 }
 
 
 .callout[data-callout="calendar"] {
-  --callout-color: #fce3f7;
+  --callout-color: 252, 227, 247;
   --callout-icon: lucide-calendar;
 }
 
