@@ -72,13 +72,25 @@
 > - Viva: 5 (every candidate will have one interview on a Saturday afternoon)
 
 ---
+#### Course Plan: Part I
 
-#### Course Plan
+| Date                 | Lecture Topic                                                   | Slides | Remarks | Other Links |
+| -------------------- | --------------------------------------------------------------- | ------ | ------- | ----------- |
+| 06 Aug 2024<br>Tue   | What we value and how we measure it<br>_Activity: Baby Hummer_  |        | No Quiz |             |
+| 08 Aug 2024<br>_Thu_ | Sequential Data Structures<br>& Introduction to Stable Marriage |        | WQ01    |             |
+| 13 Aug 2024<br>_Tue_ | Stable Marriage <br>(analysis and implementation)               |        | WQ02    |             |
+| 20 Aug 2024<br>_Tue_ | Lists and Arrays<br>(examples and trade-offs)                   |        | WQ03    |             |
+| 22 Aug 2024<br>_Thu_ | Introduction to Graphs<br>_Activity: Contagions_                |        | No Quiz |             |
+| 23 Aug 2024<br>_Fri_ | Properties of Graphs<br>(definitions and examples)              |        | WQ04    |             |
+| 27 Aug 2024<br>_Tue_ | Graph Representations<br>(examples and trade-offs)              |        | WQ05    |             |
+| 29 Aug 2024<br>_Thu_ | Euler Tours<br>_Activity: bridges on Mathigon_                  |        | WQ06    |             |
+| 03 Sep 2024<br>_Tue_ | Euler Tours (contd)<br>(algorithm for finding Euler Tours)      |        | WQ07    |             |
+| 10 Sep 2024<br>_Tue_ | Finding De Bruijn Sequences<br>_Activity: The 5-Card Reveal_    |        | WQ08    |             |
+| 12 Sep 2024<br>_Thu_ | Introduction to Traversals<br>_Activity: friends in class_      |        | No Quiz |             |
+| 17 Sep 2024<br>_Tue_ | Breadth First Search<br>Distance Properties + Bipartite         |        | WQ09    |             |
+| 19 Sep 2024<br>_Thu_ | Guest Lecture<br>by _John Azariah_                              |        | WQ10    |             |
+| 24 Sep 2024<br>_Tue_ | Depth First Search<br>Intuitive Implementation                  |        | No Quiz |             |
+| 26 Sep 2024<br>_Thu_ | Depth First Search<br>Stacks, Recursion, and Applications       |        | No Quiz |             |
+Note: The class on 5th September was canceled. 
+#### Course Plan: Part II
 
-| Date | Lecture Topic | Slides | Video | Other References |
-| ---- | ------------- | ------ | ----- | ---------------- |
-|      |               |        |       |                  |
-|      |               |        |       |                  |
-|      |               |        |       |                  |
-
-#### Weekly Quizzes
