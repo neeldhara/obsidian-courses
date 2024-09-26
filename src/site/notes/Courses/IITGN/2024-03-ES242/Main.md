@@ -91,6 +91,10 @@
 | 19 Sep 2024<br>_Thu_ | Guest Lecture<br>by _John Azariah_                              |        | WQ10    |             |
 | 24 Sep 2024<br>_Tue_ | Depth First Search<br>Intuitive Implementation                  |        | No Quiz |             |
 | 26 Sep 2024<br>_Thu_ | Depth First Search<br>Stacks, Recursion, and Applications       |        | No Quiz |             |
-Note: The class on 5th September was canceled. 
+
+---
+
+Note: the class on 5th September was canceled. 
+
 #### Course Plan: Part II
 
