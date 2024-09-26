@@ -10,7 +10,7 @@ body, p, a, .callout-title-inner, li {
     font-family: "Heliotrope 3", sans-serif !important;
 }
 
-.callout[data-callout="references"] {
+.callout[data-callout="reference"] {
   --callout-color: 99, 71, 214;
   --callout-icon: lucide-book-copy;
 }
