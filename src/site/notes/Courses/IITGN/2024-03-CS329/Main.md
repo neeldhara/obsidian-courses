@@ -1,20 +1,18 @@
 ---
-{"dg-publish":true,"dg-path":"2019-CS614","permalink":"/2019-cs-614/"}
+{"dg-publish":true,"dg-path":"2024-CS329","permalink":"/2024-cs-329/"}
 ---
 
 
-## Advanced Algorithms
+## Linear Algebraic Methods in Combinatorics
 ---
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/descriptions/cs-614/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/descriptions/cs-329/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-
-TBA
 
 > [!NOTE]- About the Course
 > Data structures give us principled ways to stow away information. It’s important to do this nicely: and what that means is to work backwards from what you want to _do_ with your information, so that your storage style is optimized for the specific way in which you need to work with your data.
