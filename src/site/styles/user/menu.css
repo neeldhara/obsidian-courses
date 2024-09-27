@@ -1,3 +1,8 @@
+.content{
+  max-width: 750px !important;
+}
+
+
 .markdown-embed-link{
   display: none !important;
 }
