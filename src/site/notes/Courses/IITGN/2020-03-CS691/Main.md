@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2020-CS691-b","permalink":"/2020-cs-691-b/"}
+{"dg-publish":true,"dg-path":"2020-CS691-b","permalink":"/2020-cs-691-b/","hide":true}
 ---
 
 

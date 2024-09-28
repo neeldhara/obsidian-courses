@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materials/dsa/de-bruijn-sequences/"}
+{"dg-publish":true,"permalink":"/materials/dsa/de-bruijn-sequences/","hide":true}
 ---
 
 [Link to Companion Slides](https://slides.com/neeldhara/de-bruijn)

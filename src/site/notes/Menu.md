@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/menu/"}
+{"dg-publish":true,"permalink":"/menu/","hide":true}
 ---
 
 
-[[Courses/IITGN/IITGN\|IITGN]] · 
+[[Welcome\|Home]] · [[Courses/IITGN/IITGN\|IITGN]] · 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materials/dsa/graphs/"}
+{"dg-publish":true,"permalink":"/materials/dsa/graphs/","hide":true}
 ---
 
 [Link to companion slides](https://slides.com/neeldhara/graphs)

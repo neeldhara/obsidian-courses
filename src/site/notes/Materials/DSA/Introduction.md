@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materials/dsa/introduction/"}
+{"dg-publish":true,"permalink":"/materials/dsa/introduction/","hide":true}
 ---
 
 [Link to Companion Slides](https://slides.com/neeldhara/dsaslides-introduction)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2022-ES242","permalink":"/2022-es-242/"}
+{"dg-publish":true,"dg-path":"2022-ES242","permalink":"/2022-es-242/","hide":true}
 ---
 
 

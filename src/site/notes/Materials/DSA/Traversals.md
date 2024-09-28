@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materials/dsa/traversals/"}
+{"dg-publish":true,"permalink":"/materials/dsa/traversals/","hide":true}
 ---
 
 

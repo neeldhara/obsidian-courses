@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2018-ES102","permalink":"/2018-es-102/"}
+{"dg-publish":true,"dg-path":"2018-ES102","permalink":"/2018-es-102/","hide":true}
 ---
 
 

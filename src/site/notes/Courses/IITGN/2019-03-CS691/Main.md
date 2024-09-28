@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2019-CS691","permalink":"/2019-cs-691/"}
+{"dg-publish":true,"dg-path":"2019-CS691","permalink":"/2019-cs-691/","hide":true}
 ---
 
 

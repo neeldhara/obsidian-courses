@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2016-CS607","permalink":"/2016-cs-607/"}
+{"dg-publish":true,"dg-path":"2016-CS607","permalink":"/2016-cs-607/","hide":true}
 ---
 
 

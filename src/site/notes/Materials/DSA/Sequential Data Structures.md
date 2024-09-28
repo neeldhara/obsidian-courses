@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materials/dsa/sequential-data-structures/"}
+{"dg-publish":true,"permalink":"/materials/dsa/sequential-data-structures/","hide":true}
 ---
 
 [Link to Companion Slides](https://slides.com/neeldhara/sequential-data-structures)

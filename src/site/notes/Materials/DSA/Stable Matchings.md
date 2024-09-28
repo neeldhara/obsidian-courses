@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materials/dsa/stable-matchings/"}
+{"dg-publish":true,"permalink":"/materials/dsa/stable-matchings/","hide":true}
 ---
 
 

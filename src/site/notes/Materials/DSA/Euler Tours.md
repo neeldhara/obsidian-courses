@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/materials/dsa/euler-tours/"}
+{"dg-publish":true,"permalink":"/materials/dsa/euler-tours/","hide":true}
 ---
 
 [Link to Companion Slides](https://slides.com/neeldhara/euler-tours)
