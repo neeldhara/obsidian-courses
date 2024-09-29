@@ -11,7 +11,10 @@
 
 
 
-[[Welcome\|Home]] · [[Courses/IITGN/IITGN\|IITGN]] · 
+> [!TIP]- Quick Navigation
+> [[Welcome\|Home]] · [[Courses/IITGN/IITGN\|IITGN]]
+
+
 
 </div></div>
 
