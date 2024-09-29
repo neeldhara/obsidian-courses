@@ -2,10 +2,8 @@
 {"dg-publish":true,"dg-path":"2024-CS329","permalink":"/2024-cs-329/","hide":true}
 ---
 
-
-## Linear Algebraic Methods in Combinatorics
+## Foundations of AI: Multiagent Systems
 ---
-
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/descriptions/cs-329/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -15,33 +13,29 @@
 
 
 > [!NOTE]- About the Course
-> Data structures give us principled ways to stow away information. It’s important to do this nicely: and what that means is to work backwards from what you want to _do_ with your information, so that your storage style is optimized for the specific way in which you need to work with your data.
->
-> For example, the notes you might be taking in this class is a kind of information.
+> The aim of this course is to explore topics essential to understand mathematical and algorithmic underpinnings of modern machine learning based systems and classical Al. We will also touch upon philosophical and ethical issues in the context of AI, with a special focus on fairness in machine learning. See the lecture-wise topics for more specifics.
 > 
-> If you have no plans of revisiting them later, you can take them as you please, or better yet, not take them at all!
->
-> However, you want your notes optimised for giving you quality company during a 2AM revision session on exam day, competing with Maggi for attention, you want your notes to be competently taken: they don’t have to be neat, and it’s enough for them to be useful.
->
-> On the other hand, if you are taking notes so that a special someone who will inevitably miss a few classes will almost certainly ask for later, then you would be making notes to impress, and that potentially requires a different approach.
->
-> Throughout this course, we will understand such trade-offs in several scenarios.
+> ---
 > 
-> > [!NOTE]+ Topics
-> > sequential data (arrays, dynamic arrays, linked lists and variants) • dequeues, stacks, queues • graph representations • graph traversals (BFS/DFS) and applications (connected components, bipartiteness, topological sort) • searching and sorting • heaps • BSTs • (2,3)-trees
+> Specific Topics:
+> 
+> **Introduction to Al.** Flavors of Al: strong and weak, neat and scruffy, symbolic and subsymbolic, knowledge-based and data-driven. The computational metaphor. What is computation? Church-Turing thesis. The Turing test. Searle's Chinese room argument.
+> 
+> **Representing Knowledge and Planning.** Games, constraint satisfaction, methods for solving CSPs, Markov Decision Processes (MDPs), and reinforcement learning
+> 
+> **Algorithmic, game-theoretic and logical foundations of multi-agent systems.** Distributed optimization and problem solving, non-cooperative game theory, learning and teaching, communication, social choice, mechanism design, auctions, negotiation, coalitional game theory.
+> 
+> **Fairness, Ethics, and Bias.** Algorithmic fairness: Individual fairness, Group fairness. Applications of fairness in machine learning.
 
 > [!TLDR]- Target Audience
-> This course is aimed at undergraduates in their first or second year, as a first introduction to data structures and algorithms.
+> This course is aimed at CSE/AI undergraduates in their second year, as a first introduction to foundational concepts in AI.
 
 > [!Tip]- Pre-requisites
-> The course is largely self-contained. Working familiarity with a programming language will be useful for the labs, where solutions are expected to be written out in C.
+> The course is largely self-contained. Some background in elementary discrete probability and propositional logic would be useful. Knowledge of neural networks is an advantage but not a requirement.
 
 > [!reference]- References
-> 1. [Open Data Structures](https://opendatastructures.org/) by Pat Morin
-> 2. [Lecture notes](https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf) by John Bullinaria
-> 3. [Data Structures Using C & C++](https://www.amazon.in/Data-Structures-Using-C/dp/8131703282) by Aaron M. Tenebaum; Moshe J. Augenstein; Yedidyah Lansam
-> 4. [Data Structures and Algorithms](https://www.amazon.in/Structures-Algorithms-Addison-Wesley-Computer-Information/dp/0201000237) by A. Aho, J. Hopcroft, J. Ullman
-> 5. [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
+> 1. Russell, Stuart, and Peter Norvig. Artificial Intelligence: A Modern Approach
+> 2. References to specific resources (papers, etc.) will be available alongside class notes.
 
 ---
 
@@ -51,18 +45,40 @@
 
 
 > [!calendar]- Timings and Venue
-> 
->
->
+> - 10/201 on Mondays and Thursdays · 11:30 AM
+> - Office hours with instructors — by appointment
 
 > [!info]- Registration & Evaluation Logistics
-> 
+> Registration and pre-registration is through IMS as usual. 
+> All quizzes and the endsem exam will be conducted in person and in pen-and-paper format.
 
 > [!info]- Grading Policy
-> 
->
+> - 5 Quizzes: 15 points each, capped at 70
+> - Practice worksheets will not be evaluated.
+> - Group projects, evaluated by presentation: 10 points
+> - Endsem: 20 points
 
 ---
 
-#### Course Plan: 
+| Date                 | Lecture Topic                                 | Slides & Notes                                               | Remarks | Other References                                              |
+| -------------------- | --------------------------------------------- | ------------------------------------------------------------ | ------- | ------------------------------------------------------------- |
+| Aug 05 2024<br>_Mon_ | Introduction: <br>History, Philosophy, Ethics | [Slides](https://slides.com/neeldhara/2024-cs329-w1#/)       |         | [a related talk](https://www.youtube.com/watch?v=ryyRNJxo_hs) |
+| Aug 08 2024<br>_Thu_ | Adversarial Search <br>and Games - I<br>      | [Slides](https://slides.com/neeldhara/fai-adverserial-games) |         | [list of games](https://kyleburke.info/DB/combGames/)<br>     |
+| Aug 12 2024<br>_Mon_ | Adversarial Search <br>and Games - II<br>     | same as above                                                |         |                                                               |
+| Aug 19 2024<br>_Mon_ | Quiz 1<br>(based on games)                    |                                                              |         |                                                               |
+| Aug 22 2024<br>_Thu_ | Introduction to <br>Constraint Satisfaction   | [Slides](https://slides.com/neeldhara/fai-csps)              |         |                                                               |
+| Aug 29 2024<br>_Thu_ | Solving CSPs - I                              | same as above                                                |         |                                                               |
+| Sep 02 2024<br>_Mon_ | Solving CSPs - II                             | same as above                                                |         |                                                               |
+| Sep 05 2024<br>_Thu_ | Quiz 2<br>(based on CSPs)                     |                                                              |         |                                                               |
+| Sep 09 2024<br>_Mon_ | Quiz Recap and <br>Introduction to MDPs       | [Slides](https://slides.com/neeldhara/fai-mdps)              |         |                                                               |
+| Sep 12 2024<br>_Thu_ | Introduction to MDPs<br>*(contd.)*            | same as above                                                |         | [lecture video](https://www.youtube.com/watch?v=Oxqwwnm_x0s)  |
+| Sep 18 2024<br>_Wed_ | Value Iteration                               | same as above                                                |         | [lecture video](https://www.youtube.com/watch?v=6pBvbLyn6fE)  |
+| Sep 19 2024<br>_Thu_ | Policy Iteration, <br>Q-learning, and SARSA   | same as above                                                |         |                                                               |
+| Sep 23 2024<br>_Mon_ | Multi-armed Bandits - I                       |                                                              |         |                                                               |
+| Sep 26 2024<br>_Thu_ | Multi-armed Bandits - II                      |                                                              |         |                                                               |
+
+---
+
+#### Course Plan: Part II
+
 
