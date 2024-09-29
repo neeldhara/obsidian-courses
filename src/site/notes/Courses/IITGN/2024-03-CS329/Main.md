@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2024-CS329","permalink":"/2024-cs-329/","hide":true}
+{"dg-publish":true,"dg-path":"foobar","permalink":"/foobar/","hide":true}
 ---
 
 ## Foundations of AI: Multiagent Systems
