@@ -12,7 +12,6 @@ _co-taught with [Prof. Manisha Padala](https://iitgn.ac.in/faculty/cse/manisha)_
 
 
 
-
 > [!NOTE]- About the Course
 > The aim of this course is to explore topics essential to understand mathematical and algorithmic underpinnings of modern machine learning based systems and classical Al. We will also touch upon philosophical and ethical issues in the context of AI, with a special focus on fairness in machine learning. See the lecture-wise topics for more specifics.
 > 
