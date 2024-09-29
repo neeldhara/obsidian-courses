@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"TBA","permalink":"/tba/","hide":true}
+{"dg-publish":true,"dg-path":"2022-SC302","permalink":"/2022-sc-302/","hide":true}
 ---
 
 

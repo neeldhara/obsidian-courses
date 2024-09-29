@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"TBA","permalink":"/tba/","hide":true}
+{"dg-publish":true,"dg-path":"gian-comsoc","permalink":"/gian-comsoc/","hide":true}
 ---
 
 

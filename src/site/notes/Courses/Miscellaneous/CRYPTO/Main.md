@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"TBA","permalink":"/tba/","hide":true}
+{"dg-publish":true,"dg-path":"2023-SC-CRYPTO","permalink":"/2023-sc-crypto/","hide":true}
 ---
 
 
@@ -16,8 +16,6 @@
 >
 
 ---
-
-
 
 > [!calendar]- Timings and Venue
 > 

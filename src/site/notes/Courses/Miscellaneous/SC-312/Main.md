@@ -1,37 +1,6 @@
 ---
-{"dg-publish":true,"dg-path":"TBA","permalink":"/tba/","hide":true}
+{"dg-publish":true,"dg-path":"2022-SC312","permalink":"/2022-sc-312/","hide":true}
 ---
 
 
-> [!NOTE]- About the Course
->
-
-> [!TLDR]- Target Audience
->
-
-> [!Tip]- Pre-requisites
->
-
-> [!reference]- References
->
-
----
-
-
-
-> [!calendar]- Timings and Venue
-> 
->
->
-
-> [!info]- Registration & Evaluation Logistics
-> 
-
-> [!info]- Grading Policy
-> 
->
-
----
-
-#### Course Plan: 
-
+For more details on this course, please see [this website](https://csresearch101.netlify.app).
