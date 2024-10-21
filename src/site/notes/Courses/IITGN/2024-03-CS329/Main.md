@@ -76,10 +76,14 @@ _co-taught with [Prof. Manisha Padala](https://iitgn.ac.in/faculty/cse/manisha)_
 | Sep 18 2024<br>_Wed_ | Value Iteration                               | same as above                                                |         | [lecture video](https://www.youtube.com/watch?v=6pBvbLyn6fE)  |
 | Sep 19 2024<br>_Thu_ | Policy Iteration, <br>Q-learning, and SARSA   | same as above                                                |         |                                                               |
 | Sep 23 2024<br>_Mon_ | Multi-armed Bandits - I                       |                                                              |         |                                                               |
-| Sep 26 2024<br>_Thu_ | Multi-armed Bandits - II                      |                                                              |         |                                                               |
+| Sep 26 2024<br>_Thu_ | RL Approaches                                 | [Slides](20240926-slides.pdf)                                |         |                                                               |
 
 ---
 
 #### Course Plan: Part II
 
+| Date                 | Lecture Topic      | Slides & Notes                | Remarks | Other References |
+| -------------------- | ------------------ | ----------------------------- | ------- | ---------------- |
+| Oct 14 2024<br>_Mon_ | RL Approaches - II | [Slides](20241014-slides.pdf) |         |                  |
+| Oct 17 2024<br>_Thu_ | Game Theory        | [Slides](20241017-slides.pdf) |         |                  |
 
