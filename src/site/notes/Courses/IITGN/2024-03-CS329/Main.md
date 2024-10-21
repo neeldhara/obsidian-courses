@@ -75,7 +75,7 @@ _co-taught with [Prof. Manisha Padala](https://iitgn.ac.in/faculty/cse/manisha)_
 | Sep 12 2024<br>_Thu_ | Introduction to MDPs<br>*(contd.)*            | same as above                                                                    |         | [lecture video](https://www.youtube.com/watch?v=Oxqwwnm_x0s)  |
 | Sep 18 2024<br>_Wed_ | Value Iteration                               | same as above                                                                    |         | [lecture video](https://www.youtube.com/watch?v=6pBvbLyn6fE)  |
 | Sep 19 2024<br>_Thu_ | Policy Iteration, <br>Q-learning, and SARSA   | same as above                                                                    |         |                                                               |
-| Sep 23 2024<br>_Mon_ | Multi-armed Bandits - I                       |                                                                                  |         |                                                               |
+| Sep 23 2024<br>_Mon_ | Multi-armed Bandits - I                       | [Slides](https://drive.google.com/file/d/1n4VJj9Oaqk0NIvUxO6MEFks7ckvqFCgU/view) |         |                                                               |
 | Sep 26 2024<br>_Thu_ | RL Approaches                                 | [Slides](https://drive.google.com/file/d/16R6hnwJ3AuDjY1MsexEy3v0D-uSvtpzP/view) |         |                                                               |
 
 ---
