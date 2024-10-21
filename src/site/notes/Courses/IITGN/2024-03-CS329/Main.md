@@ -61,29 +61,29 @@ _co-taught with [Prof. Manisha Padala](https://iitgn.ac.in/faculty/cse/manisha)_
 ---
 #### Course Plan: Part I
 
-| Date                 | Lecture Topic                                 | Slides & Notes                                               | Remarks | Other References                                              |
-| -------------------- | --------------------------------------------- | ------------------------------------------------------------ | ------- | ------------------------------------------------------------- |
-| Aug 05 2024<br>_Mon_ | Introduction: <br>History, Philosophy, Ethics | [Slides](https://slides.com/neeldhara/2024-cs329-w1#/)       |         | [a related talk](https://www.youtube.com/watch?v=ryyRNJxo_hs) |
-| Aug 08 2024<br>_Thu_ | Adversarial Search <br>and Games - I<br>      | [Slides](https://slides.com/neeldhara/fai-adverserial-games) |         | [list of games](https://kyleburke.info/DB/combGames/)<br>     |
-| Aug 12 2024<br>_Mon_ | Adversarial Search <br>and Games - II<br>     | same as above                                                |         |                                                               |
-| Aug 19 2024<br>_Mon_ | Quiz 1<br>(based on games)                    |                                                              |         |                                                               |
-| Aug 22 2024<br>_Thu_ | Introduction to <br>Constraint Satisfaction   | [Slides](https://slides.com/neeldhara/fai-csps)              |         |                                                               |
-| Aug 29 2024<br>_Thu_ | Solving CSPs - I                              | same as above                                                |         |                                                               |
-| Sep 02 2024<br>_Mon_ | Solving CSPs - II                             | same as above                                                |         |                                                               |
-| Sep 05 2024<br>_Thu_ | Quiz 2<br>(based on CSPs)                     |                                                              |         |                                                               |
-| Sep 09 2024<br>_Mon_ | Quiz Recap and <br>Introduction to MDPs       | [Slides](https://slides.com/neeldhara/fai-mdps)              |         |                                                               |
-| Sep 12 2024<br>_Thu_ | Introduction to MDPs<br>*(contd.)*            | same as above                                                |         | [lecture video](https://www.youtube.com/watch?v=Oxqwwnm_x0s)  |
-| Sep 18 2024<br>_Wed_ | Value Iteration                               | same as above                                                |         | [lecture video](https://www.youtube.com/watch?v=6pBvbLyn6fE)  |
-| Sep 19 2024<br>_Thu_ | Policy Iteration, <br>Q-learning, and SARSA   | same as above                                                |         |                                                               |
-| Sep 23 2024<br>_Mon_ | Multi-armed Bandits - I                       |                                                              |         |                                                               |
-| Sep 26 2024<br>_Thu_ | RL Approaches                                 | [Slides](20240926-slides.pdf)                                |         |                                                               |
+| Date                 | Lecture Topic                                 | Slides & Notes                                                                   | Remarks | Other References                                              |
+| -------------------- | --------------------------------------------- | -------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------- |
+| Aug 05 2024<br>_Mon_ | Introduction: <br>History, Philosophy, Ethics | [Slides](https://slides.com/neeldhara/2024-cs329-w1#/)                           |         | [a related talk](https://www.youtube.com/watch?v=ryyRNJxo_hs) |
+| Aug 08 2024<br>_Thu_ | Adversarial Search <br>and Games - I<br>      | [Slides](https://slides.com/neeldhara/fai-adverserial-games)                     |         | [list of games](https://kyleburke.info/DB/combGames/)<br>     |
+| Aug 12 2024<br>_Mon_ | Adversarial Search <br>and Games - II<br>     | same as above                                                                    |         |                                                               |
+| Aug 19 2024<br>_Mon_ | Quiz 1<br>(based on games)                    |                                                                                  |         |                                                               |
+| Aug 22 2024<br>_Thu_ | Introduction to <br>Constraint Satisfaction   | [Slides](https://slides.com/neeldhara/fai-csps)                                  |         |                                                               |
+| Aug 29 2024<br>_Thu_ | Solving CSPs - I                              | same as above                                                                    |         |                                                               |
+| Sep 02 2024<br>_Mon_ | Solving CSPs - II                             | same as above                                                                    |         |                                                               |
+| Sep 05 2024<br>_Thu_ | Quiz 2<br>(based on CSPs)                     |                                                                                  |         |                                                               |
+| Sep 09 2024<br>_Mon_ | Quiz Recap and <br>Introduction to MDPs       | [Slides](https://slides.com/neeldhara/fai-mdps)                                  |         |                                                               |
+| Sep 12 2024<br>_Thu_ | Introduction to MDPs<br>*(contd.)*            | same as above                                                                    |         | [lecture video](https://www.youtube.com/watch?v=Oxqwwnm_x0s)  |
+| Sep 18 2024<br>_Wed_ | Value Iteration                               | same as above                                                                    |         | [lecture video](https://www.youtube.com/watch?v=6pBvbLyn6fE)  |
+| Sep 19 2024<br>_Thu_ | Policy Iteration, <br>Q-learning, and SARSA   | same as above                                                                    |         |                                                               |
+| Sep 23 2024<br>_Mon_ | Multi-armed Bandits - I                       |                                                                                  |         |                                                               |
+| Sep 26 2024<br>_Thu_ | RL Approaches                                 | [Slides](https://drive.google.com/file/d/16R6hnwJ3AuDjY1MsexEy3v0D-uSvtpzP/view) |         |                                                               |
 
 ---
 
 #### Course Plan: Part II
 
-| Date                 | Lecture Topic      | Slides & Notes                | Remarks | Other References |
-| -------------------- | ------------------ | ----------------------------- | ------- | ---------------- |
-| Oct 14 2024<br>_Mon_ | RL Approaches - II | [Slides](20241014-slides.pdf) |         |                  |
-| Oct 17 2024<br>_Thu_ | Game Theory        | [Slides](20241017-slides.pdf) |         |                  |
+| Date                 | Lecture Topic      | Slides & Notes                                                                   | Remarks | Other References |
+| -------------------- | ------------------ | -------------------------------------------------------------------------------- | ------- | ---------------- |
+| Oct 14 2024<br>_Mon_ | RL Approaches - II | [Slides](https://drive.google.com/file/d/15UEBEyynLdEjcMBkA7kW1-Q10IFsS7su/view) |         |                  |
+| Oct 17 2024<br>_Thu_ | Game Theory        | [Slides](https://drive.google.com/file/d/1D9I70GkRqqp2eGU9Dj-8PdCOhADYDWPu/view) |         |                  |
 
