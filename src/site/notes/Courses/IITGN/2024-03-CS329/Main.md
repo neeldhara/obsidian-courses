@@ -82,8 +82,18 @@ _co-taught with [Prof. Manisha Padala](https://iitgn.ac.in/faculty/cse/manisha)_
 
 #### Course Plan: Part II
 
-| Date                 | Lecture Topic      | Slides & Notes                                                                   | Remarks | Other References |
-| -------------------- | ------------------ | -------------------------------------------------------------------------------- | ------- | ---------------- |
-| Oct 14 2024<br>_Mon_ | RL Approaches - II | [Slides](https://drive.google.com/file/d/15UEBEyynLdEjcMBkA7kW1-Q10IFsS7su/view) |         |                  |
-| Oct 17 2024<br>_Thu_ | Game Theory        | [Slides](https://drive.google.com/file/d/1D9I70GkRqqp2eGU9Dj-8PdCOhADYDWPu/view) |         |                  |
+| Date                 | Lecture Topic                                      | Slides & Notes                                                                   | Remarks | Other References |
+| -------------------- | -------------------------------------------------- | -------------------------------------------------------------------------------- | ------- | ---------------- |
+| Oct 14 2024<br>_Mon_ | RL Approaches - II                                 | [Slides](https://drive.google.com/file/d/15UEBEyynLdEjcMBkA7kW1-Q10IFsS7su/view) |         |                  |
+| Oct 17 2024<br>_Thu_ | Introduction to<br>Game Theory                     | [Slides](https://drive.google.com/file/d/1D9I70GkRqqp2eGU9Dj-8PdCOhADYDWPu/view) |         |                  |
+| Oct 21 2024<br>_Mon_ | Quiz 4<br>(based on CSPs, MDPs, and MABs)          |                                                                                  |         |                  |
+| Oct 24 2024<br>*Thu* | Equilibrium in <br>Strategic Form Games            | [Slides](https://drive.google.com/file/d/1cvktHeDKD8bvUnjn2NHsl19Yhlx93WKF/view) |         |                  |
+| Oct 28 2024<br>*Mon* | Mixed Strategy <br>Nash Equlibria                  | [Slides](https://drive.google.com/file/d/1kQ-YzMVVfZ6FYw6SYJC7jAOFdDZTrfdQ/view) |         |                  |
+| Nov 04 2024<br>_Mon_ | Nash Bargaining <br>Coalitional Games              |                                                                                  |         |                  |
+| Nov 07 2024<br>_Thu_ | Core<br>Shapley Value                              |                                                                                  |         |                  |
+| Nov 11 2024<br>_Mon_ | Quiz 5<br>(based on Game Theory)                   |                                                                                  |         |                  |
+| Nov 14 2024<br>_Mon_ | Introduction to Fairness<br>(Individual and Group) |                                                                                  |         |                  |
+| Nov 18 2024<br>_Mon_ | Fairness in Machine Learning<br>Part I             |                                                                                  |         |                  |
+| Nov 21 2024<br>_Mon_ | Fairness in Machine Learning<br>Part II            |                                                                                  |         |                  |
+
 
