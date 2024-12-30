@@ -103,18 +103,18 @@ Note: the class on 5th September was canceled.
 
 Note: based on the mid-term feedback, we are discontinuing the in-class quizzes. We will instead have a series of 10 short worksheets with deadlines starting 6 November up to 22nd November. 
 
-| Date                 | Lecture Topic                                                          | Slides & Notes | Remarks             | Other References                                                                  |
-| -------------------- | ---------------------------------------------------------------------- | -------------- | ------------------- | --------------------------------------------------------------------------------- |
-| 17 Oct 2024<br>*Thu* | DFS Recap<br>_Recursive Implementation_                                | Slides         |                     | [Book Chapter](https://jeffe.cs.illinois.edu/teaching/algorithms/book/06-dfs.pdf) |
-| 22 Oct 2024<br>_Tue_ | Topological Sort<br>_Preorder, Inorder, Postorder, DFS order_          | Slides         |                     | same as above                                                                     |
-| 24 Oct 2024<br>_Thu_ | Introduction to BSTs<br>_defined the search invariant_                 | Slides         |                     | [visualgo (BSTs)](https://visualgo.net/en/bst?slide=1)                            |
-| 29 Oct 2024<br>_Tue_ | Introduction to AVL Trees<br>_balance invariant implies log height_    | Slides         |                     |                                                                                   |
-| 5 Nov 2024<br>_Tue_  | Detailed analysis of insertion in AVL<br>& introduction to 2-3-4 Trees | Slides         |                     |                                                                                   |
-| 7 Nov 2024<br>_Thu_  | MidTerm Re-Exam                                                        | -              |                     |                                                                                   |
-| 13 Nov 2024<br>_Wed_ | Shortest Paths Revisited<br>_Dijkstra's Algorithm_                     | Slides         | Note: <br>Wed class |                                                                                   |
-| 14 Nov 2024<br>_Thu_ | Heaps and Heapsort<br>_Supporting efficient min/max_                   | Slides         |                     |                                                                                   |
-| 19 Nov 2024<br>_Tue_ | Introduction to Hashing<br>_Universal Hashing_                         | Slides         |                     |                                                                                   |
-| 21 Nov 2024<br>_Thu_ | Succint Data Structures<br>_Rank/Select Data Structures_               | Slides         |                     |                                                                                   |
+| Date                 | Lecture Topic                                                       | Slides & Notes | Remarks             | Other References                                                                  |
+| -------------------- | ------------------------------------------------------------------- | -------------- | ------------------- | --------------------------------------------------------------------------------- |
+| 17 Oct 2024<br>*Thu* | DFS Recap<br>_Recursive Implementation_                             | Slides         |                     | [Book Chapter](https://jeffe.cs.illinois.edu/teaching/algorithms/book/06-dfs.pdf) |
+| 22 Oct 2024<br>_Tue_ | Topological Sort<br>_Preorder, Inorder, Postorder, DFS order_       | Slides         |                     | same as above                                                                     |
+| 24 Oct 2024<br>_Thu_ | Introduction to BSTs<br>_defined the search invariant_              | Slides         |                     | [visualgo (BSTs)](https://visualgo.net/en/bst?slide=1)                            |
+| 29 Oct 2024<br>_Tue_ | Introduction to AVL Trees<br>_balance invariant implies log height_ | Slides         |                     |                                                                                   |
+| 5 Nov 2024<br>_Tue_  | Detailed analysis of <br>insertion in AVL                           | Slides         |                     |                                                                                   |
+| 7 Nov 2024<br>_Thu_  | MidTerm Re-Exam                                                     | -              |                     |                                                                                   |
+| 13 Nov 2024<br>_Wed_ | Shortest Paths Revisited<br>_Dijkstra's Algorithm_                  | Slides         | Note: <br>Wed class |                                                                                   |
+| 14 Nov 2024<br>_Thu_ | Heaps and Heapsort<br>_Supporting efficient min/max_                | Slides         |                     |                                                                                   |
+| 19 Nov 2024<br>_Tue_ | Introduction to Hashing<br>_Universal Hashing_                      | Slides         |                     |                                                                                   |
+| 21 Nov 2024<br>_Thu_ | Succint Data Structures<br>_Rank/Select Data Structures_            | Slides         |                     |                                                                                   |
 
 
 
