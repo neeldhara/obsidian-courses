@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2025-CS614","permalink":"/2025-cs-614/","hide":true}
+{"dg-publish":true,"dg-path":"2025-CS303","permalink":"/2025-cs-303/","hide":true}
 ---
 
 ## Mathematical Foundations of AI
