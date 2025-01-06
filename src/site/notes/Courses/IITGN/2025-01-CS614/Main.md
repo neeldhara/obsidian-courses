@@ -21,7 +21,6 @@ A link to the materials from the second half of the course will be shared here s
 > This course will be an exploration of approximation algorithms, focusing on techniques designed to find near-optimal solutions to computationally hard problems. Students will learn how to analyze the performance of these algorithms and apply them to various practical problems in computer science and operations research. This is one kind of _coping strategy_ for problems that are theoretically hard. See here for an overview of other algorithmic paradigms in this context.
 > 
 > We will introduce the approximation paradigm with a motivating example (Load Balancing). We will then focus on a numbe rof LP-based methods for various problems, including Vertex Cover, Set Cover, Facility Location, Steiner Forest, Multiway Cut, Bin Packing, and so on. After getting familiar with encoding problems as linear programs, we will learn about deterministic and randomized rounding methods for deriving approximate solutions efficiently. We will also learn about primal-dual based approximation algorithms. Finally, we will introduce approximation schemes (in the context of Knapsack) and SDP-based methods (for maximum cut).
-> [!NOTE]- Topics
 > 
 > _Problems:_ Load Balancing • Vertex Cover • Knapsack • Bin Packing • Set Cover • Multiway Cut • Steiner Forest • Facility Location • Traveling Salesman 
 > 
@@ -55,7 +54,7 @@ A link to the materials from the second half of the course will be shared here s
 > 
 > All assessments will be processed through Gradescope, and will use the enrolment code **3RVXNG**. You will be able to add yourself as a student.
 > 
-> _New users:_ If you don’t have a Gradescope account yet, go to the Gradescope website, click Sign Up in the upper right corner, select Student, and put in your entry code in the sign-up form. Note that your instructor may choose to disable the entry code and not allow students to use entry codes to enroll. If the entry code doesn’t work, please email me for details on how to access the course.
+> _New users:_ If you don’t have a Gradescope account yet, go to the Gradescope website, click Sign Up in the upper right corner, select Student, and put in your entry code in the sign-up form. If the entry code doesn’t work, please email me for details on how to access the course.
 > 
 > _Existing users:_ If you already have a Gradescope account, log into that account and navigate to your Account Dashboard by clicking the Gradescope logo in the top left, and click Add Course in the bottom right corner. Then enter your course code. you will be able to add yourself as a student.
 > 
