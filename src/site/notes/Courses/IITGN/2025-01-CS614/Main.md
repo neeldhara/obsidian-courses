@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"2025-advalgo","permalink":"/2025-advalgo/","hide":true}
+{"dg-publish":true,"dg-path":"2025-CS614","permalink":"/2025-cs-614/","hide":true}
 ---
 
 ## Advanced Algorithms
