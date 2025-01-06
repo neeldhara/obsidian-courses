@@ -18,33 +18,25 @@ A link to the materials from the second half of the course will be shared here s
 
 
 > [!NOTE]- About the Course
-> Data structures give us principled ways to stow away information. It’s important to do this nicely: and what that means is to work backwards from what you want to _do_ with your information, so that your storage style is optimized for the specific way in which you need to work with your data.
->
-> For example, the notes you might be taking in this class is a kind of information.
+> This course will be an exploration of approximation algorithms, focusing on techniques designed to find near-optimal solutions to computationally hard problems. Students will learn how to analyze the performance of these algorithms and apply them to various practical problems in computer science and operations research. This is one kind of _coping strategy_ for problems that are theoretically hard. See here for an overview of other algorithmic paradigms in this context.
 > 
-> If you have no plans of revisiting them later, you can take them as you please, or better yet, not take them at all!
->
-> However, you want your notes optimised for giving you quality company during a 2AM revision session on exam day, competing with Maggi for attention, you want your notes to be competently taken: they don’t have to be neat, and it’s enough for them to be useful.
->
-> On the other hand, if you are taking notes so that a special someone who will inevitably miss a few classes will almost certainly ask for later, then you would be making notes to impress, and that potentially requires a different approach.
->
-> Throughout this course, we will understand such trade-offs in several scenarios.
+> We will introduce the approximation paradigm with a motivating example (Load Balancing). We will then focus on a numbe rof LP-based methods for various problems, including Vertex Cover, Set Cover, Facility Location, Steiner Forest, Multiway Cut, Bin Packing, and so on. After getting familiar with encoding problems as linear programs, we will learn about deterministic and randomized rounding methods for deriving approximate solutions efficiently. We will also learn about primal-dual based approximation algorithms. Finally, we will introduce approximation schemes (in the context of Knapsack) and SDP-based methods (for maximum cut).
+> [!NOTE]- Topics
 > 
-> > [!NOTE]+ Topics
-> > sequential data (arrays, dynamic arrays, linked lists and variants) • dequeues, stacks, queues • graph representations • graph traversals (BFS/DFS) and applications (connected components, bipartiteness, topological sort) • searching and sorting • heaps • BSTs • (2,3)-trees
+> _Problems:_ Load Balancing • Vertex Cover • Knapsack • Bin Packing • Set Cover • Multiway Cut • Steiner Forest • Facility Location • Traveling Salesman 
+> 
+> _Techniques_: LP • SDP • Randomized Rounding • Primal-Dual • PTASes
 
-> [!TLDR]- Target Audience
+> [!TLDR]+ Target Audience
 > This course is aimed at students interested in modern methods in the design and analysis of algorithms with a predominantly theoretical perspective. 
 
-> [!Tip]- Pre-requisites
+> [!Tip]+ Pre-requisites
 > We expect learners to be familiar with topics typically taught in an introductory discrete math course (especially graphs, discrete probability, and linear algebra), and elementary algorithm design techniques.
 
-> [!reference]- References
-> 1. [Open Data Structures](https://opendatastructures.org/) by Pat Morin
-> 2. [Lecture notes](https://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf) by John Bullinaria
-> 3. [Data Structures Using C & C++](https://www.amazon.in/Data-Structures-Using-C/dp/8131703282) by Aaron M. Tenebaum; Moshe J. Augenstein; Yedidyah Lansam
-> 4. [Data Structures and Algorithms](https://www.amazon.in/Structures-Algorithms-Addison-Wesley-Computer-Information/dp/0201000237) by A. Aho, J. Hopcroft, J. Ullman
-> 5. [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
+> [!reference]+ References
+> 
+> 1. [The Design of Approximation Algorithms](https://www.designofapproxalgs.com/book.pdf) by David P. Williamson and David B.Shmoys
+> 2. [Approximation Algorithms](https://athena.nitc.ac.in/~kmurali/Courses/CombAlg2014/vazirani.pdf) by Vijay V Vazirani
 
 ---
 
@@ -73,29 +65,31 @@ A link to the materials from the second half of the course will be shared here s
 > 
 > The first part of the course accounts for 50% of your total marks in the course. 
 > 
-> There will be 12 worksheets in this course, each associated with a lecture. Each worksheet is worth 5 points. Your total marks from worksheets will be capped at 40.
+> There will be 12 worksheets in this course, each associated with a lecture. Each worksheet will be released at 7PM on the day of the lecture (on Gradescope), and will be due within 24 hours, i.e, 7PM on the next day. Exceptions may be made for circumstances that are beyond your control, please email me if you need an extension.
+> 
+> Each worksheet is worth 5 marks. Your total marks from worksheets will be scaled to 40% of your total marks (note that this is not capping: for example, if you score `30/60` from the worksheets, your total marks will be `20/40`, and your final score from the worksheets will be `40/40` if and only if you earn a total of `60` points across all worksheets).
 > 
 > There will also be a mid-term exam worth 10 points. The format of the exam will be shared shortly.
 
 ---
 #### Course Plan: 
 
-| Lec # | Date   | Topic                                                                 | References | Slides |
-| ----- | ------ | --------------------------------------------------------------------- | ---------- | ------ |
-| 1     | 6 Jan  | Introduction to Approximation Algorithms<br>_Example: Load Balancing_ |            |        |
-| 2     | 9 Jan  | Introduction to Linear Programming<br>_Example: Vertex Cover_         |            |        |
-| 3     | 13 Jan | LP rounding<br>_Example: Bin Packing_                                 |            |        |
-| NA    | 16 Jan | **Worksheet Discussion**                                              |            |        |
-| 4     | 20 Jan | Randomized Rounding<br>_Example: Set Cover_                           |            |        |
-| 5     | 23 Jan | Randomized Rounding<br>_Example: Multiway Cut_                        |            |        |
-| 6     | 27 Jan | Primal-Dual Approximation<br>_Vertex Cover Again_                     |            |        |
-| NA    | 30 Jan | **Worksheet Discussion**                                              |            |        |
-| 7     | 3 Feb  | Primal-Dual Approximation<br>_Steiner Forest_                         |            |        |
-| 8     | 6 Feb  | Primal-Dual Approximation<br>_Facility Location_                      |            |        |
-| 9     | 10 Feb | Approximation Schemes<br>_Knapsack_                                   |            |        |
-| NA    | 13 Feb | **Worksheet Discussion**                                              |            |        |
-| 10    | 17 Feb | Approximation Schemes<br>_Traveling Salesman_                         |            |        |
-| 11    | 20 Feb | Semi-Definite Programming<br>_Maximum Cut_                            |            |        |
-| 12    | 24 Feb | Semi-Definite Programming<br>_Maximum Cut (contd)_                    |            |        |
-| NA    | 27 Feb | **Worksheet Discussion**                                              |            |        |
+| Lec # | Date   | Topic                                                                 | Problem Set | Slides |
+| ----- | ------ | --------------------------------------------------------------------- | ----------- | ------ |
+| 1     | 6 Jan  | Introduction to Approximation Algorithms<br>_Example: Load Balancing_ |             |        |
+| 2     | 9 Jan  | Introduction to Linear Programming<br>_Example: Vertex Cover_         |             |        |
+| 3     | 13 Jan | LP rounding<br>_Example: Bin Packing_                                 |             |        |
+| NA    | 16 Jan | **Worksheet Discussion**                                              |             |        |
+| 4     | 20 Jan | Randomized Rounding<br>_Example: Set Cover_                           |             |        |
+| 5     | 23 Jan | Randomized Rounding<br>_Example: Multiway Cut_                        |             |        |
+| 6     | 27 Jan | Primal-Dual Approximation<br>_Vertex Cover Again_                     |             |        |
+| NA    | 30 Jan | **Worksheet Discussion**                                              |             |        |
+| 7     | 3 Feb  | Primal-Dual Approximation<br>_Steiner Forest_                         |             |        |
+| 8     | 6 Feb  | Primal-Dual Approximation<br>_Facility Location_                      |             |        |
+| 9     | 10 Feb | Approximation Schemes<br>_Knapsack_                                   |             |        |
+| NA    | 13 Feb | **Worksheet Discussion**                                              |             |        |
+| 10    | 17 Feb | Approximation Schemes<br>_Traveling Salesman_                         |             |        |
+| 11    | 20 Feb | Semi-Definite Programming<br>_Maximum Cut_                            |             |        |
+| 12    | 24 Feb | Semi-Definite Programming<br>_Maximum Cut (contd)_                    |             |        |
+| NA    | 27 Feb | **Worksheet Discussion**                                              |             |        |
 
