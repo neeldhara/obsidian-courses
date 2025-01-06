@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-path":"2024-cs329","permalink":"/2024-cs329/","hide":true}
 ---
 
-
 ## Foundations of AI: Multiagent Systems
 _co-taught with [Prof. Manisha Padala](https://iitgn.ac.in/faculty/cse/manisha)_
 
