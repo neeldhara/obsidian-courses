@@ -74,22 +74,22 @@ A link to the materials from the second half of the course will be shared here s
 ---
 #### Course Plan: 
 
-| Lec # | Date   | Topic                                                                 | Problem Set | Slides |
-| ----- | ------ | --------------------------------------------------------------------- | ----------- | ------ |
-| 1     | 6 Jan  | Introduction to Approximation Algorithms<br>_Example: Load Balancing_ |             |        |
-| 2     | 9 Jan  | Introduction to Linear Programming<br>_Example: Vertex Cover_         |             |        |
-| 3     | 13 Jan | LP rounding<br>_Example: Bin Packing_                                 |             |        |
-| NA    | 16 Jan | **Worksheet Discussion**                                              |             |        |
-| 4     | 20 Jan | Randomized Rounding<br>_Example: Set Cover_                           |             |        |
-| 5     | 23 Jan | Randomized Rounding<br>_Example: Multiway Cut_                        |             |        |
-| 6     | 27 Jan | Primal-Dual Approximation<br>_Vertex Cover Again_                     |             |        |
-| NA    | 30 Jan | **Worksheet Discussion**                                              |             |        |
-| 7     | 3 Feb  | Primal-Dual Approximation<br>_Steiner Forest_                         |             |        |
-| 8     | 6 Feb  | Primal-Dual Approximation<br>_Facility Location_                      |             |        |
-| 9     | 10 Feb | Approximation Schemes<br>_Knapsack_                                   |             |        |
-| NA    | 13 Feb | **Worksheet Discussion**                                              |             |        |
-| 10    | 17 Feb | Approximation Schemes<br>_Traveling Salesman_                         |             |        |
-| 11    | 20 Feb | Semi-Definite Programming<br>_Maximum Cut_                            |             |        |
-| 12    | 24 Feb | Semi-Definite Programming<br>_Maximum Cut (contd)_                    |             |        |
-| NA    | 27 Feb | **Worksheet Discussion**                                              |             |        |
+| Lec # | Date   | Topic                                                                 | Problem Set | Slides                                                                                                                     |
+| ----- | ------ | --------------------------------------------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1     | 6 Jan  | Introduction to Approximation Algorithms<br>_Example: Load Balancing_ |             | [PDF](https://www.dropbox.com/scl/fi/e0whsgsw6rfiwkrc47q63/slides-load-balancing.pdf?rlkey=sz0p3henbxxdo7mjv1opojfd2&dl=0) |
+| 2     | 9 Jan  | Introduction to Linear Programming<br>_Example: Vertex Cover_         |             |                                                                                                                            |
+| 3     | 13 Jan | LP rounding<br>_Example: Bin Packing_                                 |             |                                                                                                                            |
+| NA    | 16 Jan | **Worksheet Discussion**                                              |             |                                                                                                                            |
+| 4     | 20 Jan | Randomized Rounding<br>_Example: Set Cover_                           |             |                                                                                                                            |
+| 5     | 23 Jan | Randomized Rounding<br>_Example: Multiway Cut_                        |             |                                                                                                                            |
+| 6     | 27 Jan | Primal-Dual Approximation<br>_Vertex Cover Again_                     |             |                                                                                                                            |
+| NA    | 30 Jan | **Worksheet Discussion**                                              |             |                                                                                                                            |
+| 7     | 3 Feb  | Primal-Dual Approximation<br>_Steiner Forest_                         |             |                                                                                                                            |
+| 8     | 6 Feb  | Primal-Dual Approximation<br>_Facility Location_                      |             |                                                                                                                            |
+| 9     | 10 Feb | Approximation Schemes<br>_Knapsack_                                   |             |                                                                                                                            |
+| NA    | 13 Feb | **Worksheet Discussion**                                              |             |                                                                                                                            |
+| 10    | 17 Feb | Approximation Schemes<br>_Traveling Salesman_                         |             |                                                                                                                            |
+| 11    | 20 Feb | Semi-Definite Programming<br>_Maximum Cut_                            |             |                                                                                                                            |
+| 12    | 24 Feb | Semi-Definite Programming<br>_Maximum Cut (contd)_                    |             |                                                                                                                            |
+| NA    | 27 Feb | **Worksheet Discussion**                                              |             |                                                                                                                            |
 
