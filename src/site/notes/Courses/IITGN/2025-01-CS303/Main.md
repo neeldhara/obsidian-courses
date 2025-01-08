@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"math-foundations","permalink":"/math-foundations/","hide":true}
+{"dg-publish":true,"dg-path":"2025-CS303","permalink":"/2025-cs-303/","hide":true}
 ---
 
 ## Mathematical Foundations of AI
 ##### AY 2024-25, Sem II
 _co-taught with Prof Manisha Padala_
 
-A link to the materials from the lectures will be shared here shortly.
+This page will have the materials from the tutorials.
+[Link to main course website](https://sites.google.com/iitgn.ac.in/mathml/home?authuser=1) (for more on the course plan, slides, references, and grading policy)
 
 ---
 
